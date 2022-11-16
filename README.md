@@ -1,0 +1,2 @@
+# AppPaninari
+Progetto con evomatic
